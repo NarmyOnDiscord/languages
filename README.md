@@ -32,7 +32,7 @@ If you want to edit an existing translation (Fixing typos, updating it to a newe
 
 <img src="https://i.imgur.com/oVljvRE.png" alt="create pull request" width="200">
 
--   I will review your changes and make comments, and eventually merge them so they will be in the next release! Be sure to regulary check the created pull request for comments.
+-   I will review your changes and make comments, and eventually merge them! Be sure to regulary check the created pull request for comments.
 
 ### Rules for editing
 
