@@ -1,0 +1,9 @@
+general:
+    Yes: "Ja"
+    No: "Nein"
+    Hello: "Hallo"
+    Feelings: "Wie geht es dir?"
+    en: "Englisch"
+    de: "Deutsch"
+    currentLanguageTitle: ":speaking_head: Aktuelle Sprache"
+    currentLanguage: "Die aktuelle Sprache ist {language}. "
