@@ -6,4 +6,4 @@ general:
     en: "English"
     de: "German"
     currentLanguageTitle: ":speaking_head: Current Language"
-    currentLanguageDesc: "The current language is set to {language}."
+    currentLanguageDesc: "The current language is set to {language}. You can change it!"
