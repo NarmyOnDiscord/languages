@@ -6,4 +6,4 @@ general:
     en: "Englisch"
     de: "Deutsch"
     currentLanguageTitle: ":speaking_head: Aktuelle Sprache"
-    currentLanguage: "Die aktuelle Sprache ist {language}. "
+    currentLanguage: "Die aktuelle Sprache ist {language}. Hallo!"
