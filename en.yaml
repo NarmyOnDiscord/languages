@@ -3,7 +3,63 @@ general:
     No: "No"
     Hello: "Hello"
     Feelings: "How are you doing?"
+    word: "Word"
     en: "English"
     de: "German"
     currentLanguageTitle: ":speaking_head: Current Language"
     currentLanguageDesc: "The current language is set to {language}. You can change it!"
+
+paginator:
+    page: "Page {current} from {pages}"
+
+blacklist:
+    blacklisthelp: "Shows the current blacklist."
+    warning: "Do you wanna show the current blacklist? This can cause unexpected insults."
+    notshowing: ":x: The blacklist is not displayed."
+    empty: ":x: The blacklist is empty."
+    is_on_blacklist: "The word {word} is already on the blacklist."
+    added_to_blacklist: "The word {word} got added to the blacklist."
+    not_on_blacklist: "The word {word} isn't on the blacklist yet."
+    removed_from_blacklist: "The word {word} got removed from the blacklist."
+
+customcmd:
+
+
+dev:
+
+economy:
+
+errors:
+
+fun:
+
+goodbye:
+
+help:
+
+level:
+
+logs:
+
+meta:
+
+mod:
+
+news:
+
+picture:
+
+profile:
+
+reports:
+
+stickymsg:
+
+topgg:
+
+utility:
+
+voice:
+
+welcome:
+
