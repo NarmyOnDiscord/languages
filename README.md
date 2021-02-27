@@ -22,7 +22,7 @@ If you want to edit an existing translation (Fixing typos, updating it to a newe
 
 <img src="https://i.imgur.com/gZnUQoe.png" alt="edit symbol" width="200">
 
--   Do the changes you wish to do (Be sure **not** to translate placeholders! For example, `{variable} minutes` should get `{variable} minuten` and **not** `{variable} Minuten`!)
+-   Do the changes you wish to do (Be sure **not** to translate placeholders! For example, `{amount} minutes` should get `{amount} minuten` and **not** `{anzahl} Minuten`!)
 
 -   Click "Propose Changes"
 
