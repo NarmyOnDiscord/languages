@@ -11,23 +11,42 @@ general:
 
 paginator:
     page: "Page {current} from {pages}"
+    switch: "Which page do you wanna go to? (1-{max})"
 
 blacklist:
     blacklisthelp: "Shows the current blacklist."
     warning: "Do you wanna show the current blacklist? This can cause unexpected insults."
-    notshowing: ":x: The blacklist is not displayed."
-    empty: ":x: The blacklist is empty."
-    is_on_blacklist: "The word {word} is already on the blacklist."
-    added_to_blacklist: "The word {word} got added to the blacklist."
-    not_on_blacklist: "The word {word} isn't on the blacklist yet."
-    removed_from_blacklist: "The word {word} got removed from the blacklist."
+    notshowing: "The blacklist is not displayed."
+    empty: "The blacklist is empty."
+    is_on_list: "The word {word} is already on the blacklist."
+    added_to_list: "The word {word} got added to the blacklist."
+    not_on_list: "The word {word} isn't on the blacklist yet."
+    removed_from_list: "The word {word} got removed from the blacklist."
 
 customcmd:
-
+    cchelp: "Shows all custom commands."
+    addcchelp: "Create a custom command."
+    delcchelp: "Delete a custom command."
+    alreadycreated: "The custom command {command} has already been created."
+    created: "The custom command {command} has been created."
+    notcreated: "The custom command {command} does not exist."
+    deleted: "The custom command {command} has been created."
 
 dev:
 
 economy:
+    joblist: "Here you can see every available job. You can apply yourself for one job by using `job apply <name>`."
+    jobdesc: "Earn between **{MIN}** and **{MAX}** Coins per hour.\nYou must have worked at least **{TIME} hours** to unlock this job."
+    joblisterr: "I couldn't fetch the current job list due to server issues. Please try again later."
+    joblisthelp: "Shows the current job list."
+
+    roleshopempty: "You can't buy any roles on this server."
+
+    jobhelp: "Shows your current state of your job."
+    jobtitle: "Workpass from {user}"
+    nojob: "Unemployed"
+    bot: "Discord bot"
+    currentjob: "Current Job"
 
 errors:
 
